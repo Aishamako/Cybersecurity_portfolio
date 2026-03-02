@@ -17,7 +17,7 @@ Python, Flask, spaCy, SQLite, HTML/CSS/Bootstrap, REST APIs, ReportLab, Git/GitH
 
 **Links**
 - Live demo: https://simplified-predictive-risk-reporting.onrender.com
-- Repository: 
+- Repository: https://github.com/Aishamako/simplified-predictive-risk-reporting-tool.git
 
 ---
 
